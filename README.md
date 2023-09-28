@@ -9,6 +9,8 @@ Here is a comparison of the growth of soccer teams and audience attendance at th
 
 - what are the time and stage most goals?
 
-- what is the most team attendance world - cup? what is the father go in competition? 
+- what is the most team attendance world - cup? what is the father go in competition?
+  
+![image](https://github.com/budoor-ALhulaibi/World-cup-Data/assets/120724010/474af571-cde3-4781-952c-78736267cbe5)
 
 [World-cup-Data.ZIP.zip](https://github.com/budoor-ALhulaibi/World-cup-Data/files/10373185/World-cup-Data.ZIP.zip)
